@@ -127,3 +127,5 @@ for (let i = 0; i < string.length; i++) {
 return swapsString;
 }
 console.log("9.Zad: " + swapsCaseEachCharacter('The Quick Brown Fox'));
+
+// Svaka cast :) 
